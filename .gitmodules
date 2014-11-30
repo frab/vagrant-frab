@@ -1,0 +1,3 @@
+[submodule "frab"]
+	path = frab
+	url = https://github.com/indigo423/chef-frab.git
