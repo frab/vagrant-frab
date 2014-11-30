@@ -10,14 +10,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   ##  Base image
   ##############
 
-  # Run with CentOS 7.0
-  # config.vm.box = "centos-7.0"
-
   # Run with Ubuntu 14.04
   config.vm.box = "ubuntu-14.04"
-
-  # Download URL CentOS 7.0
-  # config.vm.box_url = "http://opscode-vm-bento.s3.amazonaws.com/vagrant/virtualbox/opscode_centos-7.0_chef-provisionerless.box"
 
   # Download URL Ubuntu 14.04
   config.vm.box_url = "http://opscode-vm-bento.s3.amazonaws.com/vagrant/virtualbox/opscode_ubuntu-14.04_chef-provisionerless.box"
