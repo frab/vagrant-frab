@@ -1,3 +1,6 @@
 [submodule "frab"]
 	path = frab
 	url = https://github.com/indigo423/chef-frab.git
+[submodule "cookbooks/frab"]
+	path = cookbooks/frab
+	url = https://github.com/indigo423/chef-frab.git
