@@ -3,7 +3,7 @@ vagrant-frab
 
 Project to spin up a frab conference system based with vagrant.
 
-Vagrant provides a good environment for developing, testing or debugging frab.
+Vagrant provides a good environment for developing, testing or debugging [frab](http://frab.github.io/frab/).
 It can also provide you an environment to migrate your configuration to newer versions or test new functionalities from feature branches and future versions.
 The Vagrant box of frab requires the following:
 - VirtualBox 4.2+ http://www.virtualbox.org
