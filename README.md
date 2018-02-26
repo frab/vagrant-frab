@@ -26,4 +26,4 @@ Usage
 4. Update cookbook dependencies with `git submodule init` and then `git submodule update --remote`
 5. Run `vagrant up` to start the virtual machine
 6. Connect in your browser to http://localhost:3000
-7. Username is `vagrant` with password `vagrant` you can get root access with `sudo -i`
+7. Username is `admin@example.org` with password `test123` you can get root access with `sudo -i`
