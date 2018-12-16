@@ -21,7 +21,7 @@ By default the virtual machine uses a no-worry-NAT network interface. To give yo
 Usage
 -----
 1. Install VirtualBox and Vagrant on your computer
-2. Checkout this repository with `git clone https://github.com/indigo423/vagrant-frab.git`
+2. Checkout this repository with `git clone https://github.com/vagrant/vagrant-frab.git`
 3. Change into vagrant-frab
 4. Update cookbook dependencies with `git submodule init` and then `git submodule update --remote`
 5. Run `vagrant up` to start the virtual machine
